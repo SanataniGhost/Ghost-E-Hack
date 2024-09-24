@@ -23,3 +23,5 @@ Our Massage - We are Anonymous 🎭
 This Tool Is Working On Linux & Termux & kali Arh & Ubuntu & Parrot OS 
 
    🇮🇳 Thanks For Visiting 🇮🇳
+
+  !!- ज्यादा बक्चोदी करने की आदत नही ह में -!!
