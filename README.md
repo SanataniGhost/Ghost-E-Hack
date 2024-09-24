@@ -8,7 +8,7 @@
      apt install python3 -y
      apt install git 
      apt install pip
-     git clone https://github.com/akashblackhat/gmail-hack.py.git
+     git clone                          https://github.com/SanataniGhost/Ghost-E-Hack.git
      ls
      cd gmail-hack.py
      python gmail-hack.py
