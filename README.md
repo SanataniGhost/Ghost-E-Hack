@@ -1,6 +1,7 @@
 🧤 I'm Sanatani Ghost 🚬 
 💀 जान पहचान तो बहुत है सर ... !
    पर जान पहचान के सारे ही अपराधी है ... !!
+   🚨 Anonymous India 🚨 Black hats Hackers Community 
 
      apt update
      apt install python -y
