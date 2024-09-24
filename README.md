@@ -15,9 +15,11 @@ by🧤 I'm Sanatani Ghost 🚬
 
 Note :- 
         Hacking anyone's Gmail like this is a crime. If you use the installer wrongly and face any problem, we will not be responsible for it 💨
-🗣️ Instagram : @sanatani.ghost
-👤 YouTube : @SanataniGhost
+        
+      🗣️ Instagram : @sanatani.ghost
+      👤 YouTube : @SanataniGhost
+      
 Our Massage - We are Anonymous 🎭
 This Tool Is Working On Linux & Termux & kali Arh & Ubuntu & Parrot OS 
 
-    
+   🇮🇳 Thanks For Visiting 🇮🇳
