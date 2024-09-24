@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @karndeepkumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧤 I'm Sanatani Ghost 🚬 
 
-<!---
-karndeepkumar/karndeepkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+     apt update
+     apt install python -y
+     apt install python3 -y
+     apt install git 
+     apt install pip
+     git clone https://github.com/akashblackhat/gmail-hack.py.git
+     ls
+     cd gmail-hack.py
+     python gmail-hack.py
