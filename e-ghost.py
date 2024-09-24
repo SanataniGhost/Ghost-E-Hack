@@ -1,5 +1,5 @@
 # *  Author  : Sanatani Ghost 🚬 
-# *  GitHub  : https://github.com/akashblackhat
+# *  GitHub  : https://github.com/SanataniGhost/
 # *  YouTub  : SANATANI GHOST 🚬
 # *  Instagram : @sanatani.ghost
 # *  License : MIT
